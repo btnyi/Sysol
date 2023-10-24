@@ -1,0 +1,7 @@
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\bin\Debug\DolgozatBatonyi.exe.config
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\bin\Debug\DolgozatBatonyi.exe
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\bin\Debug\DolgozatBatonyi.pdb
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\obj\Debug\DolgozatBatonyi.csproj.AssemblyReference.cache
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\obj\Debug\DolgozatBatonyi.csproj.CoreCompileInputs.cache
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\obj\Debug\DolgozatBatonyi.exe
+C:\Users\b19bátonyid\Desktop\DolgozatBatonyi\obj\Debug\DolgozatBatonyi.pdb
